@@ -1,3 +1,4 @@
+<h1 align="center"><a href="https://peterhan.dev">Hello I'm Pratik</a></h1>
 <p align="center">
   <a href="https://discord.com/pratikbhatkar">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
