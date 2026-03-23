@@ -1,11 +1,12 @@
 <h1 align="center">Hello I'm Pratik</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/pratikbhatkar/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin/0A66C2"></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+  </a>
   <a href="https://x.com/pratikplusplus">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
-      <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x"></picture></a>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="40">
+  </a>
   <a href="https://leetcode.com/u/pratikplusplus/">
-    <img alt="LeetCode" title="LeetCode" height="48" width="48" src="https://cdn.simpleicons.org/leetcode/FFA116"></a>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="40">
+  </a>
 </p>
