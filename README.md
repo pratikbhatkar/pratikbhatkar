@@ -12,3 +12,12 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="40">
   </a>
 </p>
+
+<br/>
+
+<div align="center">
+  <h3>🏆 LeetCode Statistics</h3>
+  <a href="https://leetcode.com/u/pratikplusplus/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=pratikplusplus&theme=dark" alt="Pratik's LeetCode Stats" />
+  </a>
+</div>
