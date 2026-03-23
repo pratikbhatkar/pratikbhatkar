@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.gg/pratikbhatkar">
+  <a href="https://discord.com/pratikbhatkar">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
   <a href="https://www.linkedin.com/in/pratikbhatkar/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin/0A66C2"></a>
