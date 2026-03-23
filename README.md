@@ -14,10 +14,3 @@
 </p>
 
 <br/>
-
-<div align="center">
-  <h3>🏆 LeetCode Statistics</h3>
-  <a href="https://leetcode.com/u/pratikplusplus/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=pratikplusplus&theme=dark" alt="Pratik's LeetCode Stats" />
-  </a>
-</div>
