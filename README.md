@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Pratik <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
-  <strong>🚀 Aspiring Software Developer | Android Enthusiast | Problem Solver</strong>
+  <strong>🚀 Android Developer | Computer Science Engineering Undergraduate</strong>
 </p>
 
 <p align="center">
-  I am an undergraduate student pursuing a <strong>B.Tech in Computer Science and Engineering</strong>. With a strong passion for mobile ecosystems, I specialize in <strong>Android Development</strong>, focusing on building scalable and user-centric applications. I am deeply committed to continuous learning, regularly sharpening my <strong>Data Structures and Algorithms</strong> skills and exploring modern backend and mobile technologies.
+  I am a passionate <strong>Android Developer</strong> specializing in building modern, reactive mobile applications using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>. My expertise lies in architecting robust, data-driven apps that seamlessly integrate <strong>REST APIs via Retrofit</strong> and maintain efficient <strong>local data persistence with Room</strong>. I am dedicated to writing clean, maintainable code and am currently focused on mastering advanced Data Structures and Algorithms to build high-performance software solutions.
 </p>
 
 <br/>
