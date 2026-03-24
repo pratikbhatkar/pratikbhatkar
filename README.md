@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I am a passionate <strong>Android Developer</strong> specializing in building modern, reactive mobile applications using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>. My expertise lies in architecting robust, data-driven apps that seamlessly integrate <strong>REST APIs via Retrofit</strong> and maintain efficient <strong>local data persistence with Room</strong>. I am dedicated to writing clean, maintainable code and am currently focused on mastering advanced Data Structures and Algorithms to build high-performance software solutions.
+  I am a passionate <strong>Android Developer</strong> specializing in building modern, reactive mobile applications using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>. My work lies in architecting robust, data-driven apps that seamlessly integrate <strong>REST APIs via Retrofit</strong> and maintain efficient <strong>local data persistence with Room</strong>. I am dedicated to writing clean, maintainable code and am currently focused on mastering advanced Data Structures and Algorithms to build high-performance software solutions.
 </p>
 
 <br/>
